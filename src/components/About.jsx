@@ -39,10 +39,10 @@ const About = () => {
         />
 
         <div className="about-subtext">
-          <p>The Game of Games begins—your life, now an epic MMORPG</p>
+          <p>The Game of Games begins—your life,</p>
           <p className="text-gray-500">
-            Zentry unites every player from countless games and platforms, both
-            digital and physical, into a unified Play Economy
+            “Genius, billionaire, playboy, philanthropist.
+             I built my own destiny, made my own rules, and became the man the world needed. I don't follow the future — I create it. And if there's one thing you should know about me, it's that I'm always a step ahead.”
           </p>
         </div>
       </div>
